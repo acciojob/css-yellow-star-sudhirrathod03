@@ -5,7 +5,7 @@
   position: relative;
   margin: 100px auto;
   border-right: 100px solid transparent;
-  border-bottom: 70px solid yellow;
+border-bottom: 100px solid yellow;
   border-left: 100px solid transparent;
   transform: rotate(35deg);
 }
@@ -15,7 +15,7 @@
   position: absolute;
   top: -45px;
   left: -65px;
-  border-bottom: 80px solid yellow;
+ border-bottom: 100px solid yellow;
   border-left: 30px solid transparent;
   border-right: 30px solid transparent;
   transform: rotate(-35deg);
